@@ -1,2 +1,2 @@
-# GEBL
-Game Engine By Laurens
+# Magic Salmon
+Game Engine
